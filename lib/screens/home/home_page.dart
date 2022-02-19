@@ -24,19 +24,19 @@ class _HomePageState extends State<HomePage> {
     final items = <Widget>[
       const Icon(
         Icons.home,
-        size: 30,
+        size: 40,
       ),
       const Icon(
         Icons.book,
-        size: 30,
+        size: 40,
       ),
       const Icon(
         Icons.health_and_safety_sharp,
-        size: 30,
+        size: 40,
       ),
       const Icon(
         Icons.run_circle_sharp,
-        size: 30,
+        size: 40,
       ),
       const Icon(
         Icons.person,
